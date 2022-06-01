@@ -1,5 +1,5 @@
 # calculator-react
-# Project Calculator
+#  Calculator Project
 
 ## Description
 
